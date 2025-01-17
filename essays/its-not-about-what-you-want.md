@@ -1,8 +1,3 @@
----
-tags: [economics, mindset, behavior, business]
-date: 2024-03-20
----
-
 # It's Not About What You Want
 
 ❌ If you could go inside someone's head and listen to their thoughts, you'll notice that the majority of their thoughts are related to what they want.
